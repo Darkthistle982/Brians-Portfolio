@@ -3,10 +3,7 @@ body {
 }
 
 li {
-    line-height: 30px !important;
+    line-height: 40px !important;
+    font-size: x-large;
 }
 
-#contactTitle {
-    font-family: 'Archivo Black', !important;
-    font-size: xx-large;
-}
