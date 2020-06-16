@@ -5,6 +5,7 @@ My Portfolio
 * Application overview
 * Tech used
 * Details of the Application
+* Screenshots
 * Link to the live project
 
 ## Application Overview
@@ -19,6 +20,17 @@ The purpose of this project was two-fold. The first creation of this site was to
 * Google Fonts
 
 ## Details of the Application
-I have used a multiple page layout to house my portfolio. I have a landing page that is about me, and my interestests and experience. There is a working navbar with navigation links, with a connection to a contact page that has my various methods of contacting me about a job. I also have a portfolio linked page, that includes links to all of my active works that I intend to showcase to prospective employers
+I have used a multiple page layout to house my portfolio. I have a landing page that is about me, and my interestests and experience. There is a working navbar with navigation links, with a connection to a contact page that has my various methods of contacting me about a job. I also have a portfolio linked page, that includes links to all of my active works that I intend to showcase to prospective employers.
+
+## Screenshots
+
+About Me Page:
+![About Me](/assets/images/aboutMePage.jpg)
+
+Portfolio Page:
+![Portfolio](/assets/images/portfolioPage.jpg)
+
+Contact Page
+![Contact Page](/assets/images/contactPage.jpg)
 
 ### Link to the Live Project: https://darkthistle982.github.io/Brians-Portfolio/
